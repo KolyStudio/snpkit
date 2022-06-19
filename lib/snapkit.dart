@@ -153,7 +153,7 @@ class Snapkit {
   ///
   /// `SnapchatMediaType.VIDEO` requires [videoUrl] to be non `null`.
   ///
-  /// [image] is an `ImageProvider` instance
+  /// [image] is an `String` instance
   ///
   /// [videoUrl] is a `String` that contains an external url eg. https://domain.com/video.mp4/
   ///
